@@ -1,0 +1,1 @@
+The sentiment analysis was conducted on the Uber reviews (2024) dataset from Kaggle. We have used BERT and VADER for this analysis.
